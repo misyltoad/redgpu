@@ -34,6 +34,8 @@ REDGPU API features:
 
 * 5 hours a day, 5 days a week, 5-month live chat and code support.
 
-For any questions, email at: iamvfx@gmail.com
+For any questions, email: iamvfx@gmail.com
 
 For updates, see: https://github.com/redgpu/redgpu
+
+For news, follow: https://twitter.com/redgpus
