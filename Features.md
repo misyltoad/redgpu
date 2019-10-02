@@ -39,3 +39,5 @@ For any questions, email: iamvfx@gmail.com
 For updates, see: https://github.com/redgpu/redgpu
 
 For news, follow: https://twitter.com/redgpus
+
+For more info, read: https://medium.com/@redgpu
