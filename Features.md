@@ -28,7 +28,7 @@ REDGPU API features:
 
 * Support for operating systems: Windows 10, Ubuntu 18.04 and higher.
 
-* Offline GPU code compilation to a common IR with DXC compiler (HLSL) on both Windows 10 and Ubuntu 18.04 operating systems.
+* Offline GPU code compilation to an industry standard, portable IR with DXC compiler (HLSL) on both Windows 10 and Ubuntu 18.04 operating systems.
 
 * First class support for Team Green GPU vendor's debugger and timeline profiler on both Windows 10 and Ubuntu 18.04 operating systems.
 
