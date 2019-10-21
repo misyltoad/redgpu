@@ -1,3 +1,5 @@
+* Oct 20, 2019: REDGPU SDK v1.0.1 from October 20, 2019 is released.
+
 * Oct 08, 2019: The second release to https://gumroad.com/l/redgpulite, the same but cheaper REDGPU SDK with 1 month support.
 
 * Oct 07, 2019: "An alternative, rare use of minMemoryAllocateBytesAlignment": https://github.com/redgpu/redgpu/blob/master/Blog/2019_10_07/An_alternative_rare_use_of_minMemoryAllocateBytesAlignment.md
