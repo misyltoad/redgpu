@@ -1,3 +1,5 @@
+* Nov 02, 2019: $420 discount on REDGPU SDK with 1 month support, valid until January 2, 2020: https://gumroad.com/l/redgpulite/REDGPU2020
+
 * Oct 20, 2019: REDGPU SDK v1.0.1 from October 20, 2019 is released.
 
 * Oct 08, 2019: The second release to https://gumroad.com/l/redgpulite, the same but cheaper REDGPU SDK with 1 month support.
