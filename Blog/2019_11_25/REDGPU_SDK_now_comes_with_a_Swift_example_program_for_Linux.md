@@ -1,4 +1,4 @@
-RedGpuSDK_v1.0.2.zip is now available for all REDGPU SDK users and it comes with RedGpuSDKSwiftProgramTemplate.zip for programming GPUs with the [Swift](https://developer.apple.com/swift/) programming language on Linux.
+RedGpuSDK_v1.0.2.zip is now available for all REDGPU SDK users and it comes with RedGpuSDKSwiftProgramTemplate.zip for programming GPUs with the [Swift programming language](https://developer.apple.com/swift/) on Linux.
 
 RedGpuSDKSwiftProgramTemplate is a simple executable program created with Swift 5.1.2’s Package Manager that contains Swift code to initialize a REDGPU context and print information about all the available GPUs on your system. The program has access to all of the REDGPU API and it can do everything the original C99 API can: CPU and GPU memory copies, draws, async compute.
 
