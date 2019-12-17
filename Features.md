@@ -10,7 +10,7 @@ REDGPU API features:
 
 * Ecto gammat: nothing will happen without your command. No shader will be recompiled, no synchronization will be issued, no GPU memory will be allocated without you explicitly asking for it.
 
-* No dependencies on other third-party headers and libraries. API headers include only stddef.h.
+* No dependencies on other third-party headers and libraries. API headers include only stddef.h for size_t and stdint.h for uint64_t.
 
 * No dependencies on C or C++ standard libraries. No dependencies on any dynamic or shared libraries, with an exception of vulkan-1.dll on Windows.
 
