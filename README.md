@@ -1,5 +1,7 @@
 # REDGPU SDK
 
+![REDGPU](https://raw.github.com/redgpu/redgpu/master/redgpu.png)
+
 ## [Features](https://github.com/redgpu/redgpu/blob/master/Features.md)
 
 ## Updates:
