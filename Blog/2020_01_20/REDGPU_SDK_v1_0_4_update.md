@@ -9,3 +9,5 @@ v1.0.4 changes include:
   * All the high level wrapper procedures with source code now live in a single RedGpuSDKExamples/Common/redgpu_quick.h file.
 
   * HLSL compiler is updated to the latest version for both Ubuntu 18.04 and Windows 10.
+
+https://gumroad.com/redgpu/p/redgpu-sdk-v1-0-4-update
