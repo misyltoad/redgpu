@@ -4,6 +4,8 @@
 
 ## Updates:
 
+* Jan 20, 2020: REDGPU SDK v1.0.4 from January 20, 2020 is released. https://github.com/redgpu/redgpu/blob/master/Blog/2020_01_20/REDGPU_SDK_v1_0_4_update.md
+
 * Jan 15, 2020: REDGPU SDK v1.0.3 from January 15, 2020 is released. 3 extensions are added.
 
 * Nov 25, 2019: REDGPU SDK v1.0.2 from November 25, 2019 is released. It comes with a Swift example program for Linux: https://github.com/redgpu/redgpu/blob/master/Blog/2019_11_25/REDGPU_SDK_now_comes_with_a_Swift_example_program_for_Linux.md
