@@ -6,6 +6,8 @@
 
 ## Updates:
 
+* Feb 25, 2020: REDGPU SDK v1.0.7 from February 22, 2020 is released. One new extension is added.
+
 * Jan 27, 2020: REDGPU SDK v1.0.6 from January 27, 2020 is released.
 
 * Jan 23, 2020: REDGPU SDK v1.0.5 from January 23, 2020 is released.
