@@ -6,6 +6,8 @@
 
 ## Updates:
 
+* Mar 14, 2020: REDGPU SDK v1.0.9 from March 13, 2020 is released. Extensions for memory set batching, conservative rasterization and formal memory model are added.
+
 * Mar 07, 2020: REDGPU SDK v1.0.8 from March 7, 2020 is released. `libredgpu_debug.so` and `redgpu_debug.dll` are added.
 
 * Feb 25, 2020: REDGPU SDK v1.0.7 from February 22, 2020 is released. Example program binaries are now available for both Linux and Windows. One new extension is added, see `RedSdkExtension` enum in `redgpu.h`.
