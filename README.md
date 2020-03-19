@@ -6,6 +6,8 @@
 
 ## Updates:
 
+* Mar 19, 2020: REDGPU SDK from March 13, 2020 is updated to v1.0.10. Support for 32-bit Windows 7 and Visual Studio 2005 is added. Tested to work with the last 32-bit NVIDIA driver version 391.35.
+
 * Mar 14, 2020: REDGPU SDK v1.0.9 from March 13, 2020 is released. Extensions for memory set batching, conservative rasterization and formal memory model are added.
 
 * Mar 07, 2020: REDGPU SDK v1.0.8 from March 7, 2020 is released. `libredgpu_debug.so` and `redgpu_debug.dll` are added.
