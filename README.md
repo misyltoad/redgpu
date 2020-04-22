@@ -6,7 +6,7 @@
 
 ## Updates:
 
-* Apr 22, 2020: REDGPU SDK from Apr 20, 2020 is updated to v1.0.12. Minor changes to `redgpu.h`, `history.txt` is added to the `sdk` folder.
+* Apr 22, 2020: REDGPU SDK from April 20, 2020 is updated to v1.0.12. Minor changes to `redgpu.h`, `history.txt` is added to the `sdk` folder.
 
 * Apr 20, 2020: REDGPU SDK v1.0.11 from April 20, 2020 is released.
 
