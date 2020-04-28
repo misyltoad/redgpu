@@ -26,11 +26,11 @@ REDGPU API features:
 
 * Easy multi-GPU support. All available GPUs are returned as handles you can pass to all procedures just as you would pass a single GPU handle.
 
-* Support for operating systems: Windows 10, Ubuntu 18.04 and higher. Support for C and C++ compilers: Visual Studio 2012 compiler on Windows 10 and higher, Clang 8 on Ubuntu 18.04 and higher (GCC is not supported).
+* Support for operating systems: Windows 10, Ubuntu 16.04 and higher. Support for C and C++ compilers: Visual Studio 2012 compiler on Windows 10 and higher, Clang 8 on Ubuntu 16.04 and higher (GCC is not supported).
 
-* Offline GPU code compilation to an industry standard, portable IR with DXC compiler (HLSL) on both Windows 10 and Ubuntu 18.04 operating systems.
+* Offline GPU code compilation to an industry standard, portable IR with DXC compiler (HLSL) on both Windows 10 and Ubuntu 16.04 operating systems.
 
-* First class support for Team Green GPU vendor's debugger and timeline profiler on both Windows 10 and Ubuntu 18.04 operating systems.
+* First class support for Team Green GPU vendor's debugger and timeline profiler on both Windows 10 and Ubuntu 16.04 operating systems.
 
 * DRM-free, license-key-free, a single perpetual license per company for unlimited number of employees and projects.
 
