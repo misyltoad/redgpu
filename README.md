@@ -6,6 +6,8 @@
 
 ## Updates:
 
+* Mar 15, 2020: REDGPU SDK from April 28, 2020 is updated to v1.0.16. A minor issue in one of the optional extensions is fixed, more release build error checks added to the example programs.
+
 * Apr 29, 2020: REDGPU SDK from April 28, 2020 is updated to v1.0.15. `RED_SDK_VERSION_1_0_135` is added to `RedSdkVersion` enum in `redgpu.h`.
 
 * Apr 28, 2020: REDGPU SDK v1.0.14 from April 28, 2020 is released. Ubuntu 16.04 is now supported, the HLSL compiler is updated to the latest version, the example binaries for Ubuntu now come with triple buffer versions.
