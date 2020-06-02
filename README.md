@@ -6,7 +6,7 @@
 
 ## Updates:
 
-* Jun 02, 2020: REDGPU SDK from April 28, 2020 is updated to v1.0.17. `RedContextOptionalSettings0` struct is added.
+* Jun 02, 2020: REDGPU SDK from April 28, 2020 is updated to v1.0.17. `RedContextOptionalSettings0` struct is added to `redgpu.h`.
 
 * Mar 15, 2020: REDGPU SDK from April 28, 2020 is updated to v1.0.16. A minor issue in one of the optional extensions is fixed, more release build error checks added to the example programs.
 
