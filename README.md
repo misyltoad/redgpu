@@ -6,7 +6,7 @@
 
 ## Updates:
 
-* Jun 08, 2020: REDGPU SDK from April 28, 2020 is updated to v1.0.18. This version introduces a new exciting feature that makes shader debugging a lot easier: now you can print any values from any of the executing shaders! Read here: https://https://github.com/redgpu/redgpu/blob/master/Blog/2020_06_08/REDGPU_SDK_v1_0_18_update_with_shader_values_printing_feature.md
+* Jun 08, 2020: REDGPU SDK from April 28, 2020 is updated to v1.0.18. This version introduces a new exciting feature that makes shader debugging a lot easier: now you can print any values from any of the executing shaders! Read here: https://github.com/redgpu/redgpu/blob/master/Blog/2020_06_08/REDGPU_SDK_v1_0_18_update_with_shader_values_printing_feature.md
 
 * Jun 02, 2020: REDGPU SDK from April 28, 2020 is updated to v1.0.17. `RedContextOptionalSettings0` struct is added to `redgpu.h`.
 
