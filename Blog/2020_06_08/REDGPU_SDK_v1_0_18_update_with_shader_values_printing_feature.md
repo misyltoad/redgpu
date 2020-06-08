@@ -9,3 +9,5 @@ This feature is very robust and guaranteed to work reliably every time, but it h
 If you'll need any help, send me an email to [iamvfx@gmail.com](mailto:iamvfx@gmail.com) or DM me on twitter: [https://twitter.com/redgpus](https://twitter.com/redgpus)
 
 Happy shader programming!
+
+https://gumroad.com/redgpu/p/redgpu-sdk-v1-0-18-update-with-shader-values-printing-feature-1616fefc-5810-4a2b-b3e9-61b1d7a452e1
